@@ -37,4 +37,4 @@ Simulation Skills: Testing and debugging circuits virtually in Tinkercad before 
 Problem Solving: Identifying and fixing wiring or code issues effectively.
 
 ## Tinkercad Link:
-https://www.tinkercad.com/things/d3sKzPFoR7Y-smooth-jarv
+https://www.tinkercad.com/things/d3sKzPFoR7Y-thermometer-
